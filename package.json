@@ -1,0 +1,17 @@
+{
+  "name": "screenlockimageapi",
+  "version": "1.0.0",
+  "description": "An API to store and process URLs of images",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api",
+    "nodejs",
+    "image",
+    "screen-lock"
+  ],
+  "author": "Mehmet Can Nokay",
+  "license": "ISC"
+}
